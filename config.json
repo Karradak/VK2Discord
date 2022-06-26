@@ -2,8 +2,8 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "Токен от станицы или группы ВКонтакте",
-				"group_id": "club1",
+				"token": "vk1.a.ZnsjVvK2L_4ZWwDnTiKpBxqwqkHxx-UQWF0QSYxljpAXCT1QFk19I333uaoSKUk5eFFwBJbI-NFy7ilvXkFlVf-B-NrLICuXnIzMZ8oZNmfSihzF5qCMU58EYnHCUoV6co1kmLUlxeBA9LacFgXK8qrr_imINK9L6P6GQQyMv4Fqdz8aaVah4-VACTns8PII&expires_in=0",
+				"group_id": "mypwrd",
 				"keywords": [],
 				"words_blacklist": [],
 				"filter": true,
@@ -13,7 +13,7 @@
 			},
 			"discord": {
 				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/"
+					"https://discord.com/api/webhooks/810838467280896001/rKaXhMNQn_oD-WY7jLNBbJ7ZwSidnPdGleorUppAK53W2HQHid3zV3HG2dxYQRvrb9Ki"
 				],
 				"username": "",
 				"avatar_url": "",
